@@ -1,0 +1,34 @@
+.mainDiv {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.headingBar {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 30vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+}
+.lowerCon {
+  display: flex;
+  justify-content: space-around;
+}
+.formCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 60vh;
+  border-style: solid;
+  width: 40%;
+}
+
+.histloCon {
+  width: 90%;
+  border-style: solid;
+  min-height: 40vh;
+}

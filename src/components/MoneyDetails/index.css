@@ -1,0 +1,30 @@
+.transactionItemCon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  border-radius: 13px;
+  border-style: solid;
+  list-style-type: none;
+}
+.liCon {
+  background-color: #84cc16;
+  display: flex;
+  width: 30%;
+  border-radius: 13px;
+}
+.aspect {
+  width: 30%;
+}
+.imgCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.bgcolor2 {
+  background-color: #cffafe;
+}
+.bgcolor3 {
+  background-color: #cbd5e1;
+}

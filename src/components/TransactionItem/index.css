@@ -1,0 +1,13 @@
+.ulCon {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  border-style: solid;
+  border-width: 1px;
+  font-weight: bold;
+  margin: 0px;
+  padding: 5px;
+}
+.didee {
+  width: 40%;
+}
